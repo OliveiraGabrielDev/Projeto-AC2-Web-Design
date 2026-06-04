@@ -2,7 +2,7 @@
 
 > “Eu sou a vingança. Eu sou a noite. Eu sou o Batman.”
 
-Este projeto foi desenvolvido como parte de um **trabalho acadêmico** do curso de **Engenharia da Computação (UNINTER)**.  
+Este projeto foi desenvolvido como parte de um **trabalho acadêmico** do curso de **Engenharia da Computação (FACENS)**.  
 O objetivo é criar um **site temático sobre o Batman**, explorando seus aliados, inimigos e o universo sombrio de Gotham City — tudo com um **design moderno, responsivo e interativo**.
 
 ---
